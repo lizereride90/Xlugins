@@ -1,0 +1,13 @@
+{
+  "name": "Mute Command",
+  "description": "Slash command to timeout members with smart duration parsing, limits and clear feedback.",
+  "authors": [
+    { "name": "Yenz", "id": "YOUR_DISCORD_USER_ID" }
+  ],
+  "version": "1.1.0",
+  "main": "./index.js",
+  "vendetta": { "icon": "ic_mute_24px" },
+  "tags": ["moderation", "commands", "utility"],
+  "permissions": ["commands", "http"],
+  "minimumRevengeVersion": "1.0.0"
+}
