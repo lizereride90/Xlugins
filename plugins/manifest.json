@@ -1,0 +1,32 @@
+{
+    "id": "com.yenz.mutecommand",
+    "name": "Mute Command",
+    "description": "Adds a /mute slash command that lets you timeout users for a specified duration with an optional reason.",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Yenz",
+            "id": "YOUR_DISCORD_USER_ID"
+        }
+    ],
+    "main": "index.js",
+    "icon": "MutedIcon",
+    "display": {
+        "name": "Mute Command",
+        "description": "Easily mute/timeout users with a simple /mute command"
+    },
+    "settings": false,
+    "dependencies": [],
+    "minimumRevengeVersion": "1.0.0",
+    "permissions": [
+        "commands",
+        "http"
+    ],
+    "tags": [
+        "moderation",
+        "commands",
+        "utility",
+        "mute",
+        "timeout"
+    ]
+}
